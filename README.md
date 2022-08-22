@@ -1,2 +1,2 @@
 # IMC_Calculator
-An simple IMC calculator. 
+A simple IMC calculator. 
